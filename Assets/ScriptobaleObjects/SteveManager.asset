@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d4b2322845c2c47a1ea1b7e0e8f4d3, type: 3}
+  m_Name: SteveManager
+  m_EditorClassIdentifier: 
+  ManagerLevel: 0
+  _levelColor: {r: 0.1768707, g: 1, b: 0, a: 1}
+  _managerIcon: {fileID: 21300000, guid: d9a8f5fd2a7057945b1eea29de74f05f, type: 3}
+  _managerName: Junior  Manager
+  BoostType: 0
+  _boostIcon: {fileID: -1772244045117237821, guid: 9d52fbfaea94ddf4fab176a8be2612dd, type: 3}
+  _boostDuration: 3
+  _boostValue: 3
+  _boostDescription: x3 Move Speed Boost
